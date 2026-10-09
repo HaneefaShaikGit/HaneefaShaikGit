@@ -1,52 +1,63 @@
 # Hi, I'm Haneefa 👋
 
-Data Engineer with **3+ years of experience** building and supporting cloud-based data pipelines, analytical data models, and data platforms.
+**Data Engineer | Cloud Data Platforms | Exploring AI + Data Engineering**
 
-## About Me
+Data Engineer with **3+ years of experience** building and supporting cloud-based data pipelines, analytical data models, and data platforms. My experience spans insurance data modernization, data transformation, testing, and production support.
 
-- Experienced with **GCP, BigQuery, Apache Airflow, Python, SQL, and PySpark**
-- Worked on **insurance data modernization, data pipelines, data modeling, testing, and production support**
-- Currently building hands-on projects with **dbt, Snowflake, Databricks, Spark, and modern data engineering patterns**
-- Interested in **Data Engineering, Analytics Engineering, Cloud Data Platforms, and Data Architecture**
-- Open to Data Engineering opportunities across the **UK and Europe**
+I'm currently strengthening my skills in modern data engineering while exploring how **RAG, embeddings, vector search, and LangChain** connect with reliable data pipelines.
 
-## Tech Stack
+## 🔧 Tech Stack
 
-**Languages:** Python, SQL  
-**Cloud:** GCP, AWS  
-**Data Warehouses:** BigQuery, Snowflake  
-**Orchestration:** Apache Airflow, Cloud Composer  
-**Transformation:** dbt  
-**Big Data:** PySpark, Spark  
-**Data Platforms:** Databricks  
-**Other:** Git, GitHub, Power BI  
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, SQL |
+| Cloud | GCP, AWS |
+| Data Warehousing | BigQuery, Snowflake |
+| Orchestration | Apache Airflow, Cloud Composer |
+| Transformation | dbt, SQL, Jinja |
+| Big Data & Platforms | PySpark, Apache Spark, Databricks |
+| Analytics & Tools | Power BI, Git, GitHub |
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Insurance Analytics ELT Pipeline
+### [Insurance Analytics ELT Pipeline](https://github.com/HaneefaShaikGit/insurance-analytics-elt-pipeline)
+**Amazon S3 · Snowflake · dbt · SQL · Jinja**
 
-**Amazon S3 | Snowflake | dbt | SQL | Jinja**
-
-Built an end-to-end insurance analytics ELT pipeline with:
+An end-to-end insurance analytics ELT project featuring:
 
 - **STAGE → BRONZE → SILVER → GOLD** architecture
-- incremental dbt models and late-arriving data handling
-- data-quality validation and source freshness
+- Incremental dbt models and late-arriving data handling
+- Data quality checks, source freshness, and **60+ dbt tests**
 - **SCD Type 2** customer and policy dimensions
-- claim and claim-transaction fact tables
-- KPI reporting views
-- **60+ dbt tests**
+- Claims and claim-transaction fact tables with KPI reporting views
 
-[View Project](https://github.com/HaneefaShaikGit/insurance-analytics-elt-pipeline)
+### [AI and Data Engineering](https://github.com/HaneefaShaikGit/ai-and-data-engineering)
+**Python · Data Quality · RAG Fundamentals · AI/Data Engineering**
 
-## Currently Learning
+A hands-on learning repository exploring the intersection of AI and data engineering, including:
 
-- Advanced Python for Data Engineering
-- PySpark and Spark
-- Databricks and Delta Lake
-- Data Pipeline System Design
+- AI-assisted pipeline anomaly detection
+- RAG architecture, semantic search, embeddings, and retrieval quality
+- Incremental document indexing and AI-ready data pipelines
+- Planned hands-on LangChain and vector-search experiments
 
-## Connect With Me
+### [Data Engineering Fundamentals](https://github.com/HaneefaShaikGit/data-engineering-fundamentals)
+**Python · SQL · Data Engineering Concepts**
+
+A growing collection of foundational exercises and notes covering core data engineering concepts and practical problem-solving.
+
+## 📚 Currently Learning & Building
+
+- **AI + Data Engineering:** RAG, LangChain, embeddings, vector databases, and retrieval evaluation
+- **Data Processing:** Advanced Python, PySpark, and Spark
+- **Modern Platforms:** Databricks, Delta Lake, and dbt
+- **Architecture:** Scalable pipelines, incremental processing, data quality, and system design
+
+## 🎯 Career Interests
+
+Interested in **Data Engineering, Analytics Engineering, Cloud Data Platforms, and AI Data Infrastructure**. Open to Data Engineering opportunities across the **UK and Europe**.
+
+## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/haneefa-shaik)
-- Email: haneefa.tasneem.shaik@gmail.com
+- [Email](mailto:haneefa.tasneem.shaik@gmail.com)
